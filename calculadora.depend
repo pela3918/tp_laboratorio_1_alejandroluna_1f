@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1472644467 source:c:\users\alumno\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472644506 c:\users\alumno\desktop\calculadora\funciones.h
+
+1472644546 source:c:\users\alumno\desktop\calculadora\funciones.c
+	"funciones.h"
+
+1472644548 source:e:\nueva carpeta\facu\1º cuatrimestre\calculadora\funciones.c
+	"funciones.h"
+
+1472644508 e:\nueva carpeta\facu\1º cuatrimestre\calculadora\funciones.h
+
+1473088044 source:e:\nueva carpeta\facu\1º cuatrimestre\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491146438 source:d:\programacion\calcu\calculadora\funciones.c
+	"funciones.h"
+
+1491069320 d:\programacion\calcu\calculadora\funciones.h
+
+1491147646 source:d:\programacion\calcu\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
